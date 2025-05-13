@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://couxxs0qofpes"
+path="res://.godot/imported/01 Invitation.ogg-696306815f1fb7b9edc818f90047c5bd.oggvorbisstr"
+
+[deps]
+
+source_file="res://01 Invitation.ogg"
+dest_files=["res://.godot/imported/01 Invitation.ogg-696306815f1fb7b9edc818f90047c5bd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
